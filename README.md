@@ -1,8 +1,8 @@
 # WebDesign
-##School work
+## School work
 Téma: Fodrász üzlet
 
-##A program megvalósítási szempontjai
+## A program megvalósítási szempontjai
 
 Szabványos HTML oldalak	
 Menü: Az éppen megnyitott menüpont ki van emelve
