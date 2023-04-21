@@ -1,0 +1,17 @@
+.szoveg, h2{
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 15px;
+}
+
+p::first-line{
+    font-size: 18px;
+}
+pre::first-line{
+    font-size: 18px;
+    font-style: italic;
+}
+h2{
+    font-size: 20px;
+}

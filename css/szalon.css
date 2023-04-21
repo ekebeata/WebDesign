@@ -1,0 +1,25 @@
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+table {
+    margin: auto;
+    color: white;
+    text-align: left;
+}
+
+caption{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+td{
+    width: 110px;
+    font-weight: bold;
+}
+
+section h2{
+    color: white;
+    text-align: center;
+}

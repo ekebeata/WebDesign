@@ -1,0 +1,6 @@
+a:6:{s:3:"sex";s:1:"f";s:4:"name";s:16:"Hrivnák Renáta";s:5:"email";s:24:"renata.hrivnak@gmail.com";s:3:"age";s:2:"20";s:8:"username";s:7:"renikeh";s:8:"password";s:9:"asdasd123";}
+a:6:{s:3:"sex";s:1:"m";s:4:"name";s:10:"Teszt Elek";s:5:"email";s:22:"tesztelek@tesztelek.hu";s:3:"age";s:2:"23";s:8:"username";s:9:"tesztelek";s:8:"password";s:10:"tesztelek1";}
+a:6:{s:3:"sex";s:1:"m";s:4:"name";s:11:"Teszt Elek2";s:5:"email";s:23:"tesztelek2@tesztelek.hu";s:3:"age";s:2:"32";s:8:"username";s:10:"tesztelek2";s:8:"password";s:10:"Tesztelek2";}
+a:6:{s:3:"sex";s:1:"m";s:4:"name";s:11:"Teszt Elek3";s:5:"email";s:23:"tesztelek3@tesztelek.hu";s:3:"age";s:2:"32";s:8:"username";s:10:"tesztelek3";s:8:"password";s:10:"Tesztelek3";}
+a:6:{s:3:"sex";s:1:"f";s:4:"name";s:10:"Eke Beáta";s:5:"email";s:16:"ekebe7@gmail.com";s:3:"age";s:2:"21";s:8:"username";s:6:"ekebea";s:8:"password";s:6:"bea123";}
+a:6:{s:3:"sex";s:1:"f";s:4:"name";s:13:"Legyen Kocsma";s:5:"email";s:16:"legyez@gmail.com";s:3:"age";s:2:"20";s:8:"username";s:11:"innánkmár";s:8:"password";s:7:"Inni123";}

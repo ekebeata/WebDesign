@@ -1,0 +1,183 @@
+/*----------------- navbar --------------*/
+nav ul{
+    margin:0;
+    padding: 25px;
+    text-align: center;
+}
+
+nav li{
+    padding: 0;
+    margin:0;
+    display: inline;
+}
+
+nav li:hover a{
+    color: #111111;
+
+}
+
+nav a{
+    font-family: serif;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    padding: 10px 70px 10px 70px;
+    text-decoration: none;
+    background-color: #994d00;
+    border-radius: 4px;
+}
+
+.current {
+    color: #000000;
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 1px 3px 3px black;
+}
+#cim{
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#idezet{
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+}
+
+.rol{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.6;
+    padding-bottom: 50px;
+}
+
+
+
+/*----------------- navbar --------------*/
+
+
+
+body {
+    background-image: url(../img/hatter1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*footer*/
+
+
+.elso-oszlop{
+    float: left;
+    padding: 0 80px;
+}
+.masodik-oszlop{
+    float: left;
+    
+}
+.harmadik-oszlop{
+    text-align: center;
+
+}
+
+.footer-dark {
+    margin: 50px 30px 30px 30px;
+    width: 98.5%;
+    color:#f0f9ff;
+    position: relative;
+    bottom: 0;
+
+}
+.footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+}
+.footer-dark ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    color:inherit;
+    text-decoration:none;
+    opacity:0.6; /*elhalvanyitja a szoveget(vagy kepet)*/
+}
+iframe {
+    width: 98%;
+}
+
+section h2{
+    letter-spacing: 5px;    /*betűk közötti térköz*/
+}
+
+.rol article p {
+    white-space: nowrap;    /*folytonos szöveg, amíg a br meg nem töri*/
+}
+
+/*-----------bejelentkezés-----------*/
+.inputbox{
+    padding: 20px 0 0 100px;
+}
+
+.inputbox input{
+    width: 20%;
+    outline: none;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: transparent;
+    padding: 8px 10px;
+    padding-left: 35px;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 300;
+    box-shadow: inset 0 0 25px rgba(0,0,0,0.2);
+}
+
+.inputbox input::placeholder{
+    color:#ffffff;
+}
+
+
+.inputbox input[type="submit"]{
+    background: #ffffff;
+    color: #111111;
+    max-width: 300px;
+    padding: 8px 10px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+legend{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+#regiszt h4 a {
+    margin: 120px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+#regiszt h4 a:hover {
+    color: #f0f9ff;
+    font-size: 25px;
+}
+
+
+fieldset{
+    border-radius: 20px;
+    border: none;
+}
+
+
+
+
+

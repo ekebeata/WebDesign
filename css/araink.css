@@ -1,0 +1,55 @@
+table {
+    margin: auto;
+    color: white;
+
+}
+td, th {
+    padding: 12px 25px;
+}
+
+tr{
+    text-align: left;
+    font-size: 20px
+}
+
+tr:nth-child(2n){
+    background-color: lightgrey;
+    color: black;
+}
+tr:nth-child(odd){
+    background-color: #333333;
+
+}
+#oszlop-nev1, #oszlop-nev2{
+    background-color: black;
+    font-size: 23px;
+}
+h1{
+    text-decoration: underline;
+}
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+
+    header, footer, nav {
+        display: none;
+    }
+    #gomb{
+        display: none;
+    }
+}
+
+#gomb {
+    width: 20%;
+    outline: none;
+    background: transparent;
+    padding: 8px 10px;
+    padding-left: 35px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    transform: translate(260%, -50%) rotate(-45deg);
+}
+
